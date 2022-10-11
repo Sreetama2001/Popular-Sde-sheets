@@ -1,0 +1,4 @@
+// easy 
+// Approach with Xor 
+
+
