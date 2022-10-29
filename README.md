@@ -3,7 +3,7 @@
 
 - [ ] Striver SDE Sheet 
 - [ ] Arsh Goyal (SDE Sheet solution)
-- [ ] Neetcode (75 problems)
+- [ ] [Neetcode (75 problems)](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 - [ ] Other Leetcode Problems solved by Striver and Neetcode on there Coding channel
 - [ ] [All Leetcode DP problems Category-wise](https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
 - [ ] Backtracking problems Leetcode
@@ -32,6 +32,13 @@
 
 2. Leetcode discord bot  
 
+## Some Best Blogs in Leetcode and Codeforces
+
+1. [Template for Bracktracking problems like Combinations, permutations, subsets](https://leetcode.com/problems/combinations/discuss/27006/A-template-to-those-combination-problems)
+    - before reading try out combinations , subsets problem or Subsets-sum 
+    - main idea is of choosing and not choosing
+2. [General Backtracking](https://leetcode.com/problems/subsets/discuss/27281/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))
+3. 
 
 ### Majority of Covered questions are on Leetcode and Geeks for Geeks  
 ### Feel Free to contribute by adding more interview topics 
