@@ -1,0 +1,32 @@
+What are types of approches towards string problems 
+
+Hash map ,  two pointer , string hashing , KMP , DP and backtracking , KMP , Z algorithm 
+
+check out cp-algorithms 
+
+
+Hash Map (Easy - Medium)
+
+1. 
+
+Two pointer (Easy - Medium )
+
+1. 
+
+String Hashing (Medium)
+
+1.
+
+KMP 
+
+1.
+
+
+DP and backtracking 
+
+1.
+
+Z algorithm 
+
+1.
+
